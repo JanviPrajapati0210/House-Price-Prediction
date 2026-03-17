@@ -1,5 +1,5 @@
-🏠 House Price Prediction
-📌 Objective
+##🏠 House Price Prediction
+#📌 Objective
 
 - Build a machine learning model to predict house prices using structured housing data and compare multiple algorithms to find the best performer.
 
@@ -25,16 +25,16 @@ Target Variable: SalePrice
 
 🤖 Models Used
 
-1.Linear Regression
-2.Random Forest Regressor
-3.XGBoost Regressor
+1. Linear Regression
+2. Random Forest Regressor
+3. XGBoost Regressor
 
 🎯 Evaluation Metrics
 
-1.MAE
-2.RMSE
-3.R² Score
-4.Evaluation was done on both:
+1. MAE
+2. RMSE
+3. R² Score
+4. Evaluation was done on both:
        - Log-transformed values
        - Actual price values (USD)
 
