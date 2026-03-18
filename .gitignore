@@ -14,3 +14,11 @@ __pycache__/
 
 # Data files (optional, if large)
 *.csv
+
+# Trained models
+*.pkl
+*.joblib
+
+# OS files
+.DS_Store
+Thumbs.db
